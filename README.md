@@ -7,7 +7,7 @@ and a CI-tested test suite.
 
 ## Live deployment
 
-**Live URL:** _`<add your deployed URL here after deploying, e.g. https://page-pulse.onrender.com>`_
+**Live URL:** https://page-pulse-99gr.onrender.com
 
 ## Running locally
 
